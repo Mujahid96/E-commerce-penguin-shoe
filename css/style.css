@@ -1,0 +1,50 @@
+.shoe-card{
+    border: 0;
+   
+   
+}
+.nav-style img{
+ width: 300px;
+ 
+ 
+ 
+}
+.nike-color{
+    color: #fa804c;
+}
+.btn-gradient{
+    color: white;
+    background-color: #3847cf;
+    border-radius: 1em;
+}
+.card img{
+    height: 100%;
+    border-radius: 1.5em;
+   
+}
+.card-border{
+    border: 20px solid white;
+    border-radius: 1.5em;
+}
+.fit-card{
+    border: 20px solid white;
+    border-radius: 1.5em;
+    height: 150px;
+}
+.fit-card img{
+    
+    height: 80%;
+
+    
+}
+.mj img{
+ 
+   
+    width: 100%;
+}
+.pink-bg{
+    background-color: #fff9f4;
+}
+.text-blue{
+    color: #363958;
+}
